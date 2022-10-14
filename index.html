@@ -47,6 +47,34 @@ p {
 .default {background-color: #e7e7e7; color: black;} /* Gray */
 .default:hover {background: #ddd;}
   
+.btnStack {
+  font-family: Oswald;
+  background-color: orange;
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+a.btnStack:hover {
+  background-color: #000;
+  color: #fff;
+}
+  
 </style>
   
 <button class="btn success">Success</button>
@@ -54,7 +82,10 @@ p {
 <button class="btn warning">Warning</button>
 <button class="btn danger">Danger</button>
 <button class="btn default">Default</button>   
+ 
   
+<link href='https://fonts.googleapis.com/css?family=Oswald:400' rel='stylesheet' type='text/css'>
+<a href="http://stackoverflow.com" class="btnStack">stack<b>overflow</b>.com</a>
  
 <nav>
    <ul id="Home">
