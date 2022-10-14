@@ -1,11 +1,11 @@
 .div1 {
-  border: 5px outset red;
-  background-color: lightblue;    
+  border: 5px outset green;
+  background-color: darkolivegreen;    
   text-align: center;
   }
   
 .div2 {
-  border: 5px outset green;
+  border: 2px outset green;
   background-color: lightgreen;    
   text-align: center;
   }
@@ -99,14 +99,14 @@ p {
   
 .btnStack {
   font-family: Oswald;
-  background-color: Green;
+  background-color: ForestGreen;
   color: #000;
   text-decoration: none;
   display: inline-block;
-  padding: 6px 12px;
+  padding: 12px 25px;
   margin-bottom: 0;
-  font-size: 14px;
-  font-weight: normal;
+  font-size: 18px;
+  font-weight: bold;
   line-height: 1.428571429;
   text-align: center;
   white-space: nowrap;
