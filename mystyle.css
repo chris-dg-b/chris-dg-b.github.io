@@ -18,8 +18,9 @@ body {
 
 /* h1, big bold, main header */
 h1 {
-  color: Green;
-  text-align: left;
+  color: Seagreen;
+  text-align: center;
+  font-weight: bold;
 }
 
 p {
