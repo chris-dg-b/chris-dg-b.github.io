@@ -1,7 +1,7 @@
 /* Set up the div blocks */
 .div1 {
-  border: 5px outset green;
-  background-color: mintcream;    
+  border: 3px outset green;
+  background-color: floralwhite;    
   text-align: center;
   }
   
@@ -19,46 +19,6 @@ body {
 /* h1, big bold, main header */
 h1 {
   color: Green;
-  text-align: float:left;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-  
-h2 {
-  color: forestgreen;
-  text-align: left;
-}
-
-p {
-  font-family: verdana;
-  font-size: 15px;
-}
-  
-h3 {
-  color: Green;
-  text-align: left;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-  
-}
-h4 {
-  color: Green;
-  text-align: left;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-
-h5 {
-  color: Green;
   text-align: left;
 }
 
@@ -67,15 +27,7 @@ p {
   font-size: 20px;
 }
   
-h6 {
-  color: Green;
-  text-align: left;
-}
 
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
   
   
 .btn {
@@ -88,7 +40,7 @@ p {
 
   /* Buttons */
 .btnStack {
-  font-family: Oswald;
+  font-family: times;
   background-color: ForestGreen;
   color: #000;
   text-decoration: none;
@@ -101,9 +53,8 @@ p {
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
-  cursor: pointer;
   border: 1px solid transparent;
-  border-radius: 4px;
+  border-radius: 2px;
 }
 a.btnStack:hover {
   background-color: #000;
