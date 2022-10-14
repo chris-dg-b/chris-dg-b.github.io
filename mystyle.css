@@ -28,19 +28,30 @@ p {
   font-size: 20px;
 }
   
+ 
+   /* Buttons */
 
-  
-  
-.btn {
-  border: none; /* Remove borders */
-  color: white; /* Add a text color */
-  padding: 14px 28px; /* Add some padding */
-  cursor: pointer; /* Add a pointer cursor on mouse-over */
+.btn1 {
+ font-family: times;
+  background-color: ForestGreen;
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  padding: 12px 60px;
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  border-radius: 2px;
 }
 
 
-  /* Buttons */
-.btnStack {
+ 
+.btn2 {
   font-family: times;
   background-color: ForestGreen;
   color: #000;
