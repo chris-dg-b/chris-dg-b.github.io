@@ -21,10 +21,12 @@
 /* picture alignment with floating */
 .imgleft {
   float:left;
+  padding: 10px;
 }
 
 .imgright {
   float:right;
+  padding: 10px;
 }
 
   
