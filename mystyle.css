@@ -29,6 +29,9 @@
   padding: 10px;
 }
 
+.clearfix {
+  overflow: auto;
+}
   
 /* Set up the body elements */
 body {
