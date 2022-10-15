@@ -3,6 +3,7 @@
   border: 3px outset green;
   background-color: floralwhite;    
   text-align: center;
+  text-decoration: underline;
 }
 
 .headerleft {
@@ -41,6 +42,7 @@ h1 {
   font-family: times;
 }
 
+/* h1, big bold, main header */
 h2 {
   color: Seagreen;
   text-align: center;
@@ -48,12 +50,23 @@ h2 {
   font-family: times;
 }
 
+/* paragraph titles */
 h3  {
   color: Seagreen;
   text-align: left;
-  font-size: 18px;
+  font-size: 22px;
+  font-family: times;
+  text-decoration: underline;
+}
+
+
+h4  {
+  color: Seagreen;
+  text-align: left;
+  font-size: 22px;
   font-family: times;
 }
+
 
 p {
   font-family: times;
