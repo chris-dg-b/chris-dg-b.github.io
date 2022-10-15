@@ -5,11 +5,26 @@
   text-align: center;
   }
   
-.div2 {
-  border: 2px outset green;
-  background-color: mintcream;    
+.leftimage img {
+    width: 400px;
+    border: 4px solid red;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.leftimage {
+  border: none;
+  background-color: mintcream;
+  float: left;
   text-align: center;
-  }
+}
+
+.leftimage h3,
+.leftimage p{
+  margin-left: 15px
+  display: block;
+  margin: 2px 0 0 0;
+}
   
 /* Set up the body elements */
 body {
