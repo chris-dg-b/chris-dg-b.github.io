@@ -1,9 +1,21 @@
 /* Set up the div blocks */
-.div1 {
+.title {
   border: 3px outset green;
   background-color: floralwhite;    
   text-align: center;
-  }
+}
+
+.headerleft {
+  border: none;
+  background-color: floralwhite;    
+  text-align: left;
+}
+
+.headerright {
+  border: none;
+  background-color: floralwhite;    
+  text-align: right;
+}
  
 /* picture alignment with floating */
 .imgleft {
