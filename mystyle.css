@@ -1,24 +1,13 @@
-/* Set up the div blocks */
+/* use for title block */
 .title {
   border: 3px outset green;
   background-color: floralwhite;    
   text-align: center;
-  text-decoration: underline;
+  text-decoration: underline green;
 }
 
-.headerleft {
-  border: none;
-  background-color: floralwhite;    
-  text-align: left;
-}
 
-.headerright {
-  border: none;
-  background-color: floralwhite;    
-  text-align: right;
-}
- 
-/* picture alignment with floating */
+/* picture alignment with floating and padding for text*/
 .imgleft {
   float:left;
   padding: 10px;
@@ -50,7 +39,7 @@ h1 {
   font-family: times;
 }
 
-/* h1, big bold, main header */
+/* h2, smaller sub title */
 h2 {
   color: Seagreen;
   text-align: center;
@@ -78,7 +67,8 @@ h4  {
 
 p {
   font-family: times;
-  font-size: 15px;
+  font-size: 16px;
+  line-height: 1.6;
 }
   
  
