@@ -93,8 +93,6 @@ p {
   border: 1px solid transparent;
   border-radius: 2px;
 }
-
-
  
 .btn2 {
   font-family: times;
@@ -113,7 +111,12 @@ p {
   border: 1px solid transparent;
   border-radius: 2px;
 }
-a.btnStack:hover {
+  /* Buttons Hovering Colour change*/
+a.btn1:hover {
+  background-color: #000;
+  color: #fff;
+}
+a.btn2:hover {
   background-color: #000;
   color: #fff;
 }
