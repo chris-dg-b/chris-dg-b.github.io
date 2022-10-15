@@ -30,7 +30,7 @@ body {
   background-color: floralWhite;
 }
 
-/* h1, big bold, main header */
+/* h1, big bold, main title */
 h1 {
   color: Seagreen;
   text-align: center;
@@ -72,7 +72,7 @@ p {
 }
   
  
-   /* Buttons */
+   /* Buttons for navigation bar */
 
 .btn1 {
  font-family: times;
@@ -91,13 +91,13 @@ p {
   font-family: times;
   background-color: ForestGreen;
   display: inline-block;
-  padding: 12px 90px;
   font-size: 18px;
   font-weight: bold;
   line-height: 1.6;
   text-align: center;
   vertical-align: middle;
 }
+
   /* Buttons Hovering Colour change*/
 a.btn1:hover {
   background-color: #000;
