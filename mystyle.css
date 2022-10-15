@@ -77,19 +77,14 @@ p {
 .btn1 {
  font-family: times;
   background-color: ForestGreen;
-  color: #000;
-  text-decoration: none;
   display: inline-block;
-  padding: 12px 60px;
-  margin-bottom: 0;
+  padding: 12px 90px;
   font-size: 18px;
   font-weight: bold;
-  line-height: 1.428571429;
+  line-height: 1.6;
   text-align: center;
-  white-space: nowrap;
   vertical-align: middle;
-  border: 1px solid transparent;
-  border-radius: 2px;
+  border: 3px solid transparent;
 }
  
 .btn2 {
