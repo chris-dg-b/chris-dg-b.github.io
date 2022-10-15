@@ -29,8 +29,11 @@
   padding: 10px;
 }
 
-.clearfix {
-  overflow: auto;
+/* contains overflow of element */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
   
 /* Set up the body elements */
