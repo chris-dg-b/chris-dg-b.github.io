@@ -19,6 +19,12 @@ right.*/
   float:right;
   padding: 10px;
 }
+/* centering picture, no text*/
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /* contains overflow of element */
 .clearfix::after {
