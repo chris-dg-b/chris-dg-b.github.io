@@ -33,11 +33,6 @@ right.*/
   display: table;
 }
   
-/* id selector for centered paragraphs */
-#paracenter {
-  text-align: center;
-  color: black;
-  line-height: 1.6;
   
 /* background color of the pages */
 body {
